@@ -1,3 +1,3 @@
 ## Scrimba Study material
 
-Back to basics with Scrimba JS course
+Brain teaser and back to basics with Scrimba JS course
